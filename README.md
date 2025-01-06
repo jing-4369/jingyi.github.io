@@ -1,2 +1,2 @@
 # Publications
-https://arxiv.org/abs/2309.13254
+https://arxiv.org/pdf/2309.13254
